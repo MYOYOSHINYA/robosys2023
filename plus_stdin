@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightTexy: 2023 Shinya Myoyo
 import sys
 
 ans = 0
