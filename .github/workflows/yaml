@@ -1,5 +1,0 @@
-name確認するテスト: test
-on: push
-jobs:
-  test:
-    
